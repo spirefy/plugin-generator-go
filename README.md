@@ -5,3 +5,9 @@ allows the plugin generator to now build plugin projects in Go so that Go develo
 can quickly generate a plugin project ready to build and work with the Plugin Engine
 and Extism WASM plugin capability. 
 
+```
+Extensions:
+    id: plugingenerator.go
+    version: 1.0.0
+    extension point: spirefy.plugingenerator
+```
