@@ -1,0 +1,1 @@
+tinygo build -scheduler=none -o ../plugins/plugingeneratorgo.wasm -target wasi main.go
